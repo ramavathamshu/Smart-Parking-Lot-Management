@@ -21,11 +21,14 @@ It also demonstrates dynamic memory allocation, overflow/underflow handling, and
 
 ## 🖥 How to Run
 1. Clone the repository
+
 git clone https://github.com/your-username/smart-parking-lot.git
 cd smart-parking-lot
 
-2. Compile the code
+3. Compile the code
+   
 g++ parking.cpp -o parking
 
-3. Run the program
+5. Run the program
+   
 ./parking
