@@ -25,10 +25,10 @@ It also demonstrates dynamic memory allocation, overflow/underflow handling, and
 git clone https://github.com/your-username/smart-parking-lot.git
 cd smart-parking-lot
 
-3. Compile the code
+2. Compile the code
    
 g++ parking.cpp -o parking
 
-5. Run the program
+3. Run the program
    
 ./parking
