@@ -32,3 +32,10 @@ g++ parking.cpp -o parking
 3. Run the program
    
 ./parking
+
+
+## 📸 Sample Screenshot
+
+Here’s how the program looks when running:
+
+![Sample Output](./screenshots/sample_output.png)
