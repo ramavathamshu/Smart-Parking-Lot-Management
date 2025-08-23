@@ -1,11 +1,11 @@
-##🚗 Smart Parking Lot Management System (C++)
-##📌 Project Overview
+## 🚗 Smart Parking Lot Management System (C++)
+## 📌 Project Overview
 
 This project simulates a Smart Parking Lot Management System using C++.
 It allows cars to enter (park) and exit (remove) while keeping track of parked vehicles using a linked list.
 It also demonstrates dynamic memory allocation, overflow/underflow handling, and menu-driven operations.
 
-##⚡ Features
+## ⚡ Features
 
 ✅ Dynamic memory allocation using a linked list
 
@@ -19,7 +19,7 @@ It also demonstrates dynamic memory allocation, overflow/underflow handling, and
 
 ✅ Display function – shows all currently parked cars
 
-##🖥 How to Run
+## 🖥 How to Run
 1. Clone the repository
 git clone https://github.com/your-username/smart-parking-lot.git
 cd smart-parking-lot
