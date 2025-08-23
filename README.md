@@ -38,5 +38,6 @@ g++ parking.cpp -o parking
 
 Here’s how the program looks when running:
 
-![Sample Output](./<img width="1685" height="959" alt="Screenshot 2025-08-23 223558" src="https://github.com/user-attachments/assets/6c91c83a-1ca4-4aa6-85c6-826b5f3dc070" />
+![Sample Output](./<img width="1686" height="962" alt="Screenshot 2025-08-23 233159" src="https://github.com/user-attachments/assets/1191c6da-a79c-4c14-8e13-6f345cb70146" />
+
 )
